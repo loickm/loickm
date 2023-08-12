@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm happy to be here! I'm eager to learn coding.
+
 <!--
 **loickm/loickm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
